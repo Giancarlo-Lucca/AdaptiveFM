@@ -1,4 +1,4 @@
-# On the applycation of the Adaptative Power Measure in a Fuzzy Rule-Based Classification System
+# On the applycation of the Adaptative Power Measure in a Fuzzy Rule-Based Classification System.
 
 This repository provides the suplementary material to the paper submitted to Fuzzieee (https://fuzzieee2025.conf.lip6.fr/).
 
